@@ -2,6 +2,8 @@ body {
     font-family: Roboto;
 }
 
+/* HERO SECTION */
+
 .hero-section {
     background-color: #1F2937;
 }
@@ -46,4 +48,6 @@ button {
     justify-content: center;
     align-items: center;
 }
+
+/* END OF HERO SECTION */
 
