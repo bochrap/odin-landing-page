@@ -1,5 +1,6 @@
 body {
     font-family: Roboto;
+    margin: 0;
 }
 
 /* HERO SECTION */
@@ -64,6 +65,7 @@ button {
 
 .hero-content {
     display: flex;
+    gap: 20px;
 }
 
 .hero-left {
@@ -71,6 +73,7 @@ button {
     flex-wrap: nowrap;
     flex-direction: column;
     gap: 10px;
+    max-width: 45%;
 }
 
 /* END OF HERO SECTION */
