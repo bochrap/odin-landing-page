@@ -59,11 +59,18 @@ button {
 
 .links {
     display: flex;
-    gap: 10px;
+    gap: 15px;
 }
 
 .hero-content {
     display: flex;
+}
+
+.hero-left {
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+    gap: 10px;
 }
 
 /* END OF HERO SECTION */
