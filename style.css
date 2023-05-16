@@ -79,10 +79,14 @@ button {
 /* END OF HERO SECTION */
 
 
-/* START OF IMAGES SECTION */
+/* START OF INFO SECTION */
 
 .info-section {
-    padding: 15px 100px 60px 100px;
+    padding: 30px 100px 60px 100px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
     align-items: center;
 }
 
@@ -92,7 +96,7 @@ button {
     color: #1F2937;
     display: flex;
     justify-content: center;
-    margin-bottom: 60px;
+    margin-bottom: 50px;
 
 }
 
@@ -125,7 +129,14 @@ button {
     text-align: center;
 }
 
+/* END OF INFO SECTION */
 
 
-/* START OF IMAGES SECTION */
+
+
+/* START OF QUOTE SECTION */
+
+
+
+/* END OF QUOTE SECTION */
 
