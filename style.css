@@ -102,6 +102,16 @@ button {
 
 }
 
+.img-sub-pair {
+    display: flex;
+    max-width: 130px;
+    flex-direction: column;
+    gap: 5px;
+    align-items: center;
+    justify-content: baseline;
+
+}
+
 
 /* START OF IMAGES SECTION */
 
