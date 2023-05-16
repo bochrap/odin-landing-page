@@ -82,8 +82,19 @@ button {
 /* START OF IMAGES SECTION */
 
 .info-header {
-    font: 36px 800 #1F2937;
+    font-size: 36px;
+    font-weight: 800;
+    color: #1F2937;
 }
+
+.info-img {
+    height: 130px;
+    width: 130px;
+    border: solid 4px #3882F6;
+    border-radius: 10px;
+
+}
+
 
 /* START OF IMAGES SECTION */
 
