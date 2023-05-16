@@ -83,6 +83,7 @@ button {
 
 .info-section {
     padding: 15px 100px 60px 100px;
+    align-items: center;
 }
 
 .info-header {
@@ -91,13 +92,14 @@ button {
     color: #1F2937;
     display: flex;
     justify-content: center;
+    margin-bottom: 60px;
 
 }
 
 .info-img {
     height: 130px;
     width: 130px;
-    border: solid 4px #3882F6;
+    border: solid 3px #3882F6;
     border-radius: 10px;
 
 }
@@ -110,6 +112,17 @@ button {
     align-items: center;
     justify-content: baseline;
 
+}
+
+.info-images {
+
+    display: flex;
+    justify-content: center;
+    gap: 45px;
+}
+
+.info-img-sub {
+    text-align: center;
 }
 
 
