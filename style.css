@@ -136,7 +136,30 @@ button {
 
 /* START OF QUOTE SECTION */
 
+.quote-section {
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    padding: 100px;
+    gap: 15px;
+    justify-content: center;
+    align-items: center;
+}
 
+.quote-text {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 100;
+    color: #1F2937;
+    max-width: 800px;
+}
+
+.quote-subtext {
+    align-self: flex-end;
+    font-weight: 900;
+    padding-right: 150px;
+
+}
 
 /* END OF QUOTE SECTION */
 
